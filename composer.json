@@ -19,11 +19,7 @@
             "database"
         ],
         "psr-4": {
-<<<<<<< HEAD
-            "App\\": "app/"
-=======
-            "MiExpresionCuenta\\": "app/"
->>>>>>> f4f9550ce00473f57194d4d8ee73c88b03ac9e98
+
         }
     },
     "autoload-dev": {
