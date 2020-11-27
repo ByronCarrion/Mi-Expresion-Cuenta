@@ -7,6 +7,8 @@ correo varchar(50) not null,
 pasword varchar(8) not null,
 primary key (usuario)
 );
+
+
 create table if not exists nivel
 (idnivel int not null,
 nombrenivel varchar(25),
